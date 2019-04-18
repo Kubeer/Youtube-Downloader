@@ -1,0 +1,23 @@
+{
+  "name": "youtube-downloader",
+  "version": "0.1.0",
+  "main": "app/script/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^4.1.4"
+  },
+  "devDependencies": {},
+  "author": "Kubeer",
+  "license": "MIT",
+  "description": "Youtube downloader made using electron",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kubeer/Youtube-Downloader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kubeer/Youtube-Downloader/issues"
+  },
+  "homepage": "https://github.com/Kubeer/Youtube-Downloader#readme"
+}
